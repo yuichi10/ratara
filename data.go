@@ -1,4 +1,4 @@
-package lratara
+package ratara
 
 import (
 	"time"
