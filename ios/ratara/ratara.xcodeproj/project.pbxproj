@@ -47,6 +47,7 @@
 		574616C122F9987F00393590 /* rataraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rataraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		574616C522F9987F00393590 /* rataraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rataraUITests.swift; sourceTree = "<group>"; };
 		574616C722F9987F00393590 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		574E39E6230FD392006571F9 /* Ratara-bridge-header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ratara-bridge-header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				574616AC22F9987F00393590 /* Assets.xcassets */,
 				574616AE22F9987F00393590 /* LaunchScreen.storyboard */,
 				574616B122F9987F00393590 /* Info.plist */,
+				574E39E6230FD392006571F9 /* Ratara-bridge-header.h */,
 			);
 			path = ratara;
 			sourceTree = "<group>";
